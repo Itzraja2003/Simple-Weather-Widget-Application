@@ -1,0 +1,3 @@
+- A simple Weather App built with HTML, CSS, JavaScript, and Bootstrap.
+- It fetches real-time weather data using the OpenWeather API and displays temperature, humidity, weather icons, and a weekly forecast.
+- Created as a practice project to improve API integration and frontend development skills.
